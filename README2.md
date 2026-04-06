@@ -1,5 +1,4 @@
-# 🛡️ GRC Professional
-### GRC Professional
+# 🛡️ GRC Project
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
